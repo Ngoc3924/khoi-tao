@@ -2,3 +2,10 @@
 
 +repository local: src trong máy tính
 +repository remote : src lưu trên github
+link private: Ai dùng account công ty cung cấp thì mới lấy đc cái src đó về còn mik có đường link nhấn vào thì nó ra 404 ko lấy đc 
+mở đúng folder và khởi tạo 
+
+Đẩy lên lần 2 trở đi
+git add -A
+git commit -m "create home page html"
+git push
